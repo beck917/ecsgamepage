@@ -1,0 +1,547 @@
+{ "compressionlevel":-1,
+ "height":20,
+ "infinite":false,
+ "layers":[
+        {
+         "data":[67, 49, 49, 49, 49, 49, 49, 49, 49, 31,
+            67, 246, 246, 246, 246, 246, 246, 246, 246, 31,
+            67, 49, 49, 49, 49, 246, 246, 246, 246, 31,
+            67, 49, 49, 49, 49, 49, 246, 246, 246, 31,
+            67, 49, 49, 49, 49, 49, 246, 246, 246, 31,
+            67, 49, 49, 49, 49, 246, 246, 246, 246, 31,
+            67, 49, 49, 49, 49, 246, 246, 246, 246, 31,
+            67, 49, 49, 49, 49, 246, 246, 49, 246, 31,
+            67, 49, 49, 49, 49, 246, 246, 49, 246, 31,
+            67, 49, 49, 49, 49, 49, 246, 246, 246, 31,
+            67, 49, 49, 49, 246, 246, 246, 246, 246, 31,
+            67, 246, 49, 49, 246, 246, 246, 246, 246, 31,
+            67, 246, 49, 49, 49, 246, 246, 246, 246, 31,
+            67, 246, 49, 49, 49, 246, 246, 246, 246, 31,
+            67, 246, 246, 49, 49, 246, 246, 246, 246, 31,
+            67, 246, 246, 246, 246, 246, 246, 246, 246, 31,
+            67, 246, 246, 49, 49, 246, 246, 246, 246, 31,
+            67, 246, 246, 49, 49, 49, 246, 246, 246, 31,
+            67, 246, 246, 49, 49, 246, 246, 246, 246, 31,
+            67, 246, 246, 246, 246, 246, 246, 246, 246, 31],
+         "height":20,
+         "id":4,
+         "locked":true,
+         "name":"mapLayer",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":10,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[0, 0, 0, 150, 186, 186, 186, 186, 132, 0,
+            0, 0, 0, 203, 185, 95, 184, 77, 167, 0,
+            0, 0, 0, 203, 185, 167, 0, 203, 167, 0,
+            0, 0, 0, 203, 185, 167, 0, 203, 167, 0,
+            0, 0, 0, 203, 185, 167, 0, 203, 167, 0,
+            0, 0, 0, 203, 185, 167, 0, 203, 167, 0,
+            0, 0, 0, 203, 95, 131, 0, 203, 167, 0,
+            0, 0, 0, 203, 167, 0, 0, 203, 167, 0,
+            186, 186, 186, 76, 167, 0, 0, 203, 167, 0,
+            184, 184, 184, 184, 131, 0, 0, 203, 167, 0,
+            0, 0, 0, 0, 0, 0, 0, 203, 167, 0,
+            0, 0, 0, 0, 0, 0, 0, 203, 167, 0,
+            0, 0, 0, 0, 0, 0, 0, 203, 167, 0,
+            0, 0, 0, 0, 0, 0, 0, 203, 167, 0,
+            186, 186, 186, 186, 186, 186, 186, 76, 167, 0,
+            184, 184, 184, 184, 184, 184, 184, 77, 167, 0,
+            0, 0, 0, 0, 0, 0, 0, 203, 167, 0,
+            0, 0, 0, 0, 0, 0, 0, 203, 167, 0,
+            0, 0, 0, 0, 0, 0, 0, 203, 167, 0,
+            0, 0, 0, 0, 0, 0, 0, 203, 167, 0],
+         "height":20,
+         "id":9,
+         "locked":true,
+         "name":"roadLayer",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":10,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":3,
+         "locked":true,
+         "name":"pathlayer",
+         "objects":[
+                {
+                 "height":0,
+                 "id":8,
+                 "name":"path1",
+                 "polyline":[
+                        {
+                         "x":0,
+                         "y":0
+                        }, 
+                        {
+                         "x":-7,
+                         "y":-2423
+                        }, 
+                        {
+                         "x":-167,
+                         "y":-2423
+                        }, 
+                        {
+                         "x":-282,
+                         "y":-2425
+                        }, 
+                        {
+                         "x":-285,
+                         "y":-2147
+                        }, 
+                        {
+                         "x":-273,
+                         "y":-1947
+                        }, 
+                        {
+                         "x":-398,
+                         "y":-1785
+                        }, 
+                        {
+                         "x":-398,
+                         "y":-1499
+                        }, 
+                        {
+                         "x":-465,
+                         "y":-1397
+                        }, 
+                        {
+                         "x":-1166,
+                         "y":-1403
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":966,
+                 "y":2612
+                }, 
+                {
+                 "height":0,
+                 "id":9,
+                 "name":"path2",
+                 "polyline":[
+                        {
+                         "x":0,
+                         "y":0
+                        }, 
+                        {
+                         "x":-10,
+                         "y":-2522
+                        }, 
+                        {
+                         "x":-230,
+                         "y":-2526
+                        }, 
+                        {
+                         "x":-426,
+                         "y":-2517
+                        }, 
+                        {
+                         "x":-483,
+                         "y":-2495
+                        }, 
+                        {
+                         "x":-525,
+                         "y":-2285
+                        }, 
+                        {
+                         "x":-598,
+                         "y":-1850
+                        }, 
+                        {
+                         "x":-595,
+                         "y":-1633
+                        }, 
+                        {
+                         "x":-622,
+                         "y":-1493
+                        }, 
+                        {
+                         "x":-1263,
+                         "y":-1489
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":1074,
+                 "y":2599
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":11,
+         "name":"carLayer",
+         "objects":[
+                {
+                 "gid":372,
+                 "height":100,
+                 "id":12,
+                 "name":"playercar",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":100,
+                 "x":786,
+                 "y":2025
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }],
+ "nextlayerid":12,
+ "nextobjectid":13,
+ "orientation":"orthogonal",
+ "renderorder":"right-down",
+ "tiledversion":"1.11.2",
+ "tileheight":128,
+ "tilesets":[
+        {
+         "columns":18,
+         "firstgid":1,
+         "image":"..\/..\/..\/road\/spritesheet_tiles.png",
+         "imageheight":2304,
+         "imagewidth":2304,
+         "margin":0,
+         "name":"road2",
+         "spacing":0,
+         "tilecount":324,
+         "tileheight":128,
+         "tilewidth":128,
+         "wangsets":[
+                {
+                 "colors":[
+                        {
+                         "color":"#ff0000",
+                         "name":"\u591a\u8f66\u9053",
+                         "probability":1,
+                         "tile":-1
+                        }, 
+                        {
+                         "color":"#00ff00",
+                         "name":"\u5355\u8f66\u9053",
+                         "probability":1,
+                         "tile":-1
+                        }],
+                 "name":"road",
+                 "tile":91,
+                 "type":"corner",
+                 "wangtiles":[
+                        {
+                         "tileid":75,
+                         "wangid":[0, 1, 0, 1, 0, 1, 0, 0]
+                        }, 
+                        {
+                         "tileid":76,
+                         "wangid":[0, 1, 0, 1, 0, 0, 0, 1]
+                        }, 
+                        {
+                         "tileid":93,
+                         "wangid":[0, 0, 0, 1, 0, 1, 0, 1]
+                        }, 
+                        {
+                         "tileid":94,
+                         "wangid":[0, 1, 0, 0, 0, 1, 0, 1]
+                        }, 
+                        {
+                         "tileid":130,
+                         "wangid":[0, 0, 0, 0, 0, 0, 0, 1]
+                        }, 
+                        {
+                         "tileid":131,
+                         "wangid":[0, 0, 0, 0, 0, 1, 0, 0]
+                        }, 
+                        {
+                         "tileid":148,
+                         "wangid":[0, 1, 0, 0, 0, 0, 0, 0]
+                        }, 
+                        {
+                         "tileid":149,
+                         "wangid":[0, 0, 0, 1, 0, 0, 0, 0]
+                        }, 
+                        {
+                         "tileid":166,
+                         "wangid":[0, 0, 0, 0, 0, 1, 0, 1]
+                        }, 
+                        {
+                         "tileid":183,
+                         "wangid":[0, 1, 0, 0, 0, 0, 0, 1]
+                        },
+                    
+                        {
+                         "tileid":184,
+                         "wangid":[0, 1, 0, 1, 0, 1, 0, 1]
+                        }, 
+                        {
+                         "tileid":185,
+                         "wangid":[0, 0, 0, 1, 0, 1, 0, 0]
+                        }, 
+                        {
+                         "tileid":202,
+                         "wangid":[0, 1, 0, 1, 0, 0, 0, 0]
+                        }]
+                }]
+        }, 
+        {
+         "columns":7,
+         "firstgid":325,
+         "image":"..\/..\/..\/roadturngit\/public\/assets\/Yellow_JEEP_CLEAN_All_000-sheet.png",
+         "imageheight":700,
+         "imagewidth":700,
+         "margin":0,
+         "name":"car",
+         "spacing":0,
+         "tilecount":49,
+         "tileheight":100,
+         "tiles":[
+                {
+                 "animation":[
+                        {
+                         "duration":83,
+                         "tileid":0
+                        }, 
+                        {
+                         "duration":83,
+                         "tileid":1
+                        }, 
+                        {
+                         "duration":83,
+                         "tileid":2
+                        }, 
+                        {
+                         "duration":83,
+                         "tileid":3
+                        }, 
+                        {
+                         "duration":83,
+                         "tileid":4
+                        }, 
+                        {
+                         "duration":83,
+                         "tileid":5
+                        }, 
+                        {
+                         "duration":83,
+                         "tileid":6
+                        }, 
+                        {
+                         "duration":83,
+                         "tileid":7
+                        }, 
+                        {
+                         "duration":83,
+                         "tileid":8
+                        }, 
+                        {
+                         "duration":83,
+                         "tileid":9
+                        },
+                    
+                        {
+                         "duration":83,
+                         "tileid":10
+                        }, 
+                        {
+                         "duration":83,
+                         "tileid":11
+                        }, 
+                        {
+                         "duration":83,
+                         "tileid":12
+                        }],
+                 "id":0
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":83,
+                         "tileid":24
+                        }, 
+                        {
+                         "duration":83,
+                         "tileid":25
+                        }, 
+                        {
+                         "duration":83,
+                         "tileid":26
+                        }, 
+                        {
+                         "duration":83,
+                         "tileid":27
+                        }, 
+                        {
+                         "duration":83,
+                         "tileid":28
+                        }, 
+                        {
+                         "duration":83,
+                         "tileid":29
+                        }, 
+                        {
+                         "duration":83,
+                         "tileid":30
+                        }, 
+                        {
+                         "duration":83,
+                         "tileid":31
+                        }, 
+                        {
+                         "duration":83,
+                         "tileid":32
+                        }, 
+                        {
+                         "duration":83,
+                         "tileid":33
+                        },
+                    
+                        {
+                         "duration":83,
+                         "tileid":34
+                        }, 
+                        {
+                         "duration":83,
+                         "tileid":35
+                        }, 
+                        {
+                         "duration":83,
+                         "tileid":36
+                        }],
+                 "id":24
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":83,
+                         "tileid":36
+                        }, 
+                        {
+                         "duration":83,
+                         "tileid":35
+                        }, 
+                        {
+                         "duration":83,
+                         "tileid":34
+                        }, 
+                        {
+                         "duration":83,
+                         "tileid":33
+                        }, 
+                        {
+                         "duration":83,
+                         "tileid":32
+                        }, 
+                        {
+                         "duration":83,
+                         "tileid":31
+                        }, 
+                        {
+                         "duration":83,
+                         "tileid":30
+                        }, 
+                        {
+                         "duration":83,
+                         "tileid":29
+                        }, 
+                        {
+                         "duration":83,
+                         "tileid":28
+                        }, 
+                        {
+                         "duration":83,
+                         "tileid":27
+                        },
+                    
+                        {
+                         "duration":83,
+                         "tileid":26
+                        }, 
+                        {
+                         "duration":83,
+                         "tileid":25
+                        }, 
+                        {
+                         "duration":83,
+                         "tileid":24
+                        }],
+                 "id":36
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":83,
+                         "tileid":0
+                        }, 
+                        {
+                         "duration":83,
+                         "tileid":47
+                        }, 
+                        {
+                         "duration":83,
+                         "tileid":46
+                        }, 
+                        {
+                         "duration":83,
+                         "tileid":45
+                        }, 
+                        {
+                         "duration":83,
+                         "tileid":44
+                        }, 
+                        {
+                         "duration":83,
+                         "tileid":43
+                        }, 
+                        {
+                         "duration":83,
+                         "tileid":42
+                        }, 
+                        {
+                         "duration":83,
+                         "tileid":41
+                        }, 
+                        {
+                         "duration":83,
+                         "tileid":40
+                        }, 
+                        {
+                         "duration":83,
+                         "tileid":39
+                        },
+                    
+                        {
+                         "duration":83,
+                         "tileid":38
+                        }, 
+                        {
+                         "duration":83,
+                         "tileid":37
+                        }, 
+                        {
+                         "duration":83,
+                         "tileid":36
+                        }],
+                 "id":47
+                }],
+         "tilewidth":100
+        }],
+ "tilewidth":128,
+ "type":"map",
+ "version":"1.10",
+ "width":10
+}
